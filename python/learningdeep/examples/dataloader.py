@@ -24,7 +24,7 @@ class DataLoader(object):
 
         Args:
             name (str, optional): name of this class.
-                Defaults to "ExampleClassifier."
+                Defaults to "ExampleDataLoader"
         """
         self.__name = name
 
